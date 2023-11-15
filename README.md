@@ -1,8 +1,8 @@
 # Awesome-DIffusionModels4Multi-Modal
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-![Stars](https://img.shields.io/github/stars/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
-[![Visits Badge](https://badges.pufler.dev/visits/JiaojiaoYe1994/Awesome-DIffusionModels4Multi-Modal)](https://badges.pufler.dev/visits/JiaojiaoYe1994/Awesome-DIffusionModels4Multi-Modal)
+![Stars](https://img.shields.io/github/stars/JiaojiaoYe1994/Awesome-DIffusionModels4Multi-Modal)
+[![Visits Badge](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
 
 A curated list of Diffusion Models for Mutli-Modal Generation with awesome resources (paper, code, application, review, survey, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
