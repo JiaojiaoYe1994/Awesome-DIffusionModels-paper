@@ -1,10 +1,16 @@
 # Awesome-DIffusionModels4Multi-Modal
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
+![Stars](https://img.shields.io/github/stars/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
+[![Visits Badge](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
+
+
 A curated list of Diffusion Models for Mutli-Modal Generation with awesome resources (paper, code, application, review, survey, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
 ## Table of contents
-### 1. Text-to-Image Generation
-### 2. Scene Graph-to-Image Generation
-### 3. Text-to-3D Generation
+### 1. [Text-to-Image Generation](#Text-to-Image Generation)
+### 2. Scene Graph-to-Image Generation(#Scene Graph-to-Image Generation)
+### 3. Text-to-3D Generation(#)
 ### 4. Text-to-Motion Generation
 ### 5. Text-to-Video Generation
 ### 6. Text-to-Audio Generation
