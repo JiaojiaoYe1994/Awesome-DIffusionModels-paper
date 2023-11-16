@@ -1,4 +1,4 @@
-# Awesome-DIffusionModels4Multi-Modal
+# Awesome papers for Diffusion Models for Multi-Modal Generation
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 ![Stars](https://img.shields.io/github/stars/JiaojiaoYe1994/Awesome-DIffusionModels4Multi-Modal)
