@@ -11,9 +11,9 @@ A curated list of Diffusion Models for Mutli-Modal Generation with awesome resou
 * 1. [Text-to-Image Generation](#text-to-image-generation)
 * 2. [Scene Graph-to-Image Generation](#scene-graph-to-image-generation)
 * 3. [Text-to-3D Generation](#text-to-3d-image-generation)
-* 4. Text-to-Motion Generation
-* 5. Text-to-Video Generation
-* 6. Text-to-Audio Generation
+* 4. [Text-to-Motion Generation](#text-to-motion-generation)
+* 5. [Text-to-Video Generation](#text-to-video-generation)
+* 6. [Text-to-Audio Generation](#text-to-audio-generation)
 
 ## 1. Text-to-Image Generation
 * A survey of vision-language pre-trained models. (2022). Yifan Du, Zikang Liu, Junyi Li, and Wayne Xin Zhao. 2022. [paper](https://arxiv.org/abs/2202.10936)
