@@ -30,6 +30,7 @@ A curated list of Diffusion Models for Mutli-Modal Generation with awesome resou
 * ObjectStitch: Object Compositing With Diffusion Model.Yizhi Song, Zhifei Zhang, Zhe Lin, Scott Cohen, Brian Price, Jianming Zhang, Soo Ye Kim, Daniel Aliaga. CVPR 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_ObjectStitch_Object_Compositing_With_Diffusion_Model_CVPR_2023_paper.html)
 * One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale. Fan Bao, Shen Nie, Kaiwen Xue, Chongxuan Li, Shi Pu, Yaole Wang, Gang Yue, Yue Cao, Hang Su, Jun Zhu. CVPR 2023. [paper](https://arxiv.org/abs/2303.06555) [code](https://github.com/thu-ml/unidiffuser)
 * DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability. Runhui Huang, Jianhua Han, Guansong Lu, Xiaodan Liang, Yihan Zeng, Wei Zhang, Hang Xu. ICCV 2023. [paper](https://arxiv.org/abs/2308.09306)
+* An Information-Theoretic Evaluation of Generative Models in Learning Multi-modal Distributions. Jin-Hwa Kim, Yunji Kim, Jiyoung Lee, Kang Min Yoo, Sang-Woo Lee. NIPs 2022. [paper](https://openreview.net/pdf?id=wKd2XtSRsjl)
 
 ## 2. Scene Graph-to-Image Generation
 * Roei Herzig, Amir Bar, Huijuan Xu, Gal Chechik, Trevor Darrell, and Amir Globerson. 2020. Learning canonical representations for scene graph to image generation. ECCV. 210–227. [paper](https://arxiv.org/abs/1912.07414)
